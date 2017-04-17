@@ -16,15 +16,18 @@ up = media.Movie("UP", "An Old Man's Adventure",
                  "https://www.youtube.com/watch?v=ORFWdXl_zJ4")
 
 spirited_away = media.Movie("Spirited Away", "A Girl's Adventure in a Magical Land",
-                            "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NTM1NTg1Ml5BMl5BanBnXkFtZTgwOTgzMTMyMDE@._V1_UY268_CR6,0,182,268_AL_.jpg",
+                            "https://upload.wikimedia.org/wikipedia/en/3/30/Spirited_Away_poster.JPG",
                             "https://www.youtube.com/watch?v=ByXuk9QqQkk")
 
 graveoftheFireFlies = media.Movie("Grave of the Fireflies",
                                   "A Young Boy and His Sister's struggle during the aftermath of World War 2",
-                                  "http://static.rogerebert.com/uploads/movie/movie_poster/grave-of-the-fireflies-1988/large_bwVhmPpydv8P7mWfrmL3XVw0MV5.jpg", "https://www.youtube.com/watch?v=4vPeTSRd580")
+                                  "https://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg", 
+                                  "https://www.youtube.com/watch?v=4vPeTSRd580")
 
-gardenofwords = media.Movie("The Garden of Words", "A 15 Year Old Boy's unlikely friendship with a young women",
-                            "https://upload.wikimedia.org/wikipedia/en/c/c3/Garden_of_Words_poster.png", "https://www.youtube.com/watch?v=udDIkl6z8X0")
+gardenofwords = media.Movie("The Garden of Words",
+                            "A 15 Year Old Boy's unlikely friendship with a young women",
+                            "https://upload.wikimedia.org/wikipedia/en/c/c3/Garden_of_Words_poster.png",
+                            "https://www.youtube.com/watch?v=udDIkl6z8X0")
 
 # Put all the movies into a list
 
