@@ -4,7 +4,7 @@ A simple python program to display my favorite movies
 # Installation
 Clone the Github Repository
 ```
-$ git clone
+$ git clone https://github.com/arthurchan1111/movietrailer.git
 ```
 Open the html file [fresh_tomatoes.html] to see the final product
 
@@ -19,7 +19,7 @@ First fork the Repository
 
 Then clone the forked GitHub Repository
 ```
-$ git clone
+$ git clone https://github.com/arthurchan1111/movietrailer.git
 ```
 Edit the contents in **entertainment_center.py** then save then:
 
