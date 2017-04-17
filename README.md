@@ -1,7 +1,7 @@
-#Movie Trailer Website
+# Movie Trailer Website
 A simple python program to display my favorite movies
 
-#Installation
+# Installation
 Clone the Github Repository
 ```
 $ git clone
@@ -9,10 +9,10 @@ $ git clone
 ```
 Open the html file [fresh_tomatoes.html](fresh_tomatoes.html) to see the final product
 
-#Requirements
+# Requirements
 Movie Trailer Website requires python. Download the latest version [here](https://www.python.org/)
 
-#Usage
+# Usage
 
 To add your own movies edit the contents in **entertainment_center.py** then save then:
 
