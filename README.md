@@ -6,7 +6,7 @@ Clone the Github Repository
 ```
 $ git clone https://github.com/arthurchan1111/movietrailer.git
 ```
-Open the html file [fresh_tomatoes.html] to see the final product
+Open the html file **fresh_tomatoes.html** to see the final product
 
 # Requirements
 Movie Trailer Website requires python to compile. Download the latest version [here](https://www.python.org/)
